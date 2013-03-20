@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherMessageQueue", "AnotherMessageQueue.csproj", "{04C999E6-BD03-4B9A-BFE3-12BF5FAC2D21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iquest.Messaging.Queue", "Iquest.Messaging\Iquest.Messaging.Queue.csproj", "{04C999E6-BD03-4B9A-BFE3-12BF5FAC2D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iquest.Messaging.Data", "Iquest.Data\Iquest.Data\Iquest.Messaging.Data.csproj", "{BE969F18-F1A0-4F3A-BB87-F578431A41F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{04C999E6-BD03-4B9A-BFE3-12BF5FAC2D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04C999E6-BD03-4B9A-BFE3-12BF5FAC2D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04C999E6-BD03-4B9A-BFE3-12BF5FAC2D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE969F18-F1A0-4F3A-BB87-F578431A41F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE969F18-F1A0-4F3A-BB87-F578431A41F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE969F18-F1A0-4F3A-BB87-F578431A41F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE969F18-F1A0-4F3A-BB87-F578431A41F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

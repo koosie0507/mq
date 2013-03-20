@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AnotherMessageQueue")]
+[assembly: AssemblyTitle("Iquest.Data")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AnotherMessageQueue")]
+[assembly: AssemblyProduct("Iquest.Data")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5a7c85a7-f131-444d-94fc-b0cfc3e9ab8b")]
+[assembly: Guid("e24af352-1f91-4bcd-9840-f509bf740a68")]
 
 // Version information for an assembly consists of the following four values:
 //
